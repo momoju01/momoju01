@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunha Kim.
 - 👀 I’m interested in almost everything exists in this world.
-- 🌱 I’m currently learning python in SSAFY.
+- 🌱 I’m currently learning python, django..
 - 💞️ 
 - 📫 How to reach me : i am not ready to meet you...
 
