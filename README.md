@@ -2,8 +2,6 @@
 
 I am a frontEnd developer.
 
-</br>
-
 #### 🛠️ Tech Stack
 
 <div align="start">
