@@ -1,8 +1,8 @@
   ### Hello, I'm Yunha Kim🐣 
 
----
-
 I am a frontEnd developer.
+
+</br>
 
 #### 🛠️ Tech Stack
 
@@ -17,6 +17,8 @@ I am a frontEnd developer.
     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
+</br>
+
 
 | <img src="https://github-readme-stats.vercel.app/api?username=yulloe&show_icons=true&"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulloe&layout=compact&langs_count=8"/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
